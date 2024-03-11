@@ -43,8 +43,7 @@ But wait, there's more to me than just coding! When I'm not in the digital world
 
  
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31kyc3tgh7exen3ut7ncifviwg3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
+  
 
 <br/>  
 
