@@ -18,7 +18,7 @@ I'm Sanskar Tyagi 👋, your friendly Creative Developer 🎨💻. I absolutely 
 But wait, there's more to me than just coding! When I'm not in the digital world, you can catch me indulging in my non-technical passions 🎨, especially immersing myself in the intricate strategies of the chessboard ♞. Checkmate! 🏁</p>
 </div>  
       <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-tyagi&&theme=dark&layout=compact" ><
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-tyagi&&theme=dark&layout=compact" >
   <br>
 
 </p>
