@@ -9,15 +9,7 @@
     <br> </td>
   </tr>
 </table>
- 
-
-</p>
-  <p align="start">
-I'm Sanskar Tyagi 👋, your friendly Creative Developer 🎨💻. I absolutely adore diving into the realm of creative solutions for real-world problems 🚀. I find immense delight in deciphering complex system designs 🔍 and unraveling patterns that might be hidden from others' eyes 🤯.
-
-But wait, there's more to me than just coding! When I'm not in the digital world, you can catch me indulging in my non-technical passions 🎨, especially immersing myself in the intricate strategies of the chessboard ♞. Checkmate! 🏁</p>
-</div>  
-      <p align="center"> 
+ <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-tyagi&&theme=dark&layout=compact" >
   <br>
 
