@@ -2,17 +2,9 @@
 
 # Hey there! 🌟
 <br/>
-
-   <table align="center">
-  <tr align="center">
-    <td> <img src="https://github.com/Sanskar-tyagi/Sanskar-tyagi/blob/main/github.gif" width=200> 
-    <br> </td>
-  </tr>
-</table>
  <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanskar-tyagi&&theme=dark&layout=compact" >
   <br>
-
 </p>
 
 
