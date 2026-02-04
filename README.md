@@ -1,8 +1,8 @@
-# Hi, I'm Sanskar Tyagi 👋
+# Hi, I'm Sanskar Tyagi <img height="100px" src="https://media.tenor.com/NRlBKLrZg3sAAAAi/cute-kawaii.gif"/>
 
-I'm a Software Developer who enjoys building scalable web applications, designing clean systems, and learning deeply about computer science fundamentals. If it involves Art, Chess,Maths, or Engineering, I'm probably obsessing over it.
+I'm a Software Developer who enjoys building scalable web applications, designing clean systems, and deepening my understanding of computer science fundamentals. If it involves Art, Chess, Maths, or Engineering, I'm probably obsessing over it.
 
-I work primarily with **JavaScript, TypeScript, React, Next.js**, and backend technologies like **FastAPI and MongoDB**.
+I work primarily with **JavaScript, TypeScript, React, Next.js**, and backend technologies such as **FastAPI and MongoDB**.
 
 ---
 
@@ -119,12 +119,39 @@ I work primarily with **JavaScript, TypeScript, React, Next.js**, and backend te
 ### Other Skills
 
 * **Git & GitHub (Team Collaboration, Code Reviews)**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanskar-tyagi&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area=true&hide_border=true"/>
 
 ---
 
-## 🌐 Connect With Me
+##  🌐 Let's Connect
 
-- LinkedIn: [linkedin.com/in/sanskartyagi](https://www.linkedin.com/in/sanskartyagi/)
+<table align="center">
+  <tr>
+    <td>
+      <img height="180px" src="https://media1.tenor.com/m/X-jA_vmTHUYAAAAd/yapapa-yapapa-cat.gif" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=sanskar-tyagi&theme=dark&hide_border=false"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanskartyagi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanskar%20Tyagi-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID">
+    <img src="https://img.shields.io/badge/Discord-Chat%20With%20Me-purple?style=for-the-badge&logo=discord" />
+  </a>
+</p>
+
 ---
 
 ⭐ Always learning, building, and improving one project at a time.
+
+
